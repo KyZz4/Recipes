@@ -1,0 +1,45 @@
+body {
+background-image: url(../images/.jpg);
+background-color: #ffffff;
+color: #000000;
+font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+font-size: 20px;
+}
+
+ol {
+font-size: 20px;
+}
+
+h1 {
+font-size: 40px;
+}
+
+.title {
+text-align: center;
+    }
+
+.top {
+text-align: center;
+  }
+  
+.midle {
+text-align: center;
+  }
+
+.bottom {
+text-align: center;
+  }
+
+.image {
+  text-align: center;
+  }
+
+  /*  
+Margin
+Border
+Padding
+*/
+
